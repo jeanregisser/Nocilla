@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Luis Solano" => "contact@luissolano.com" }
 
-  s.source       = { :git => "https://github.com/luisobo/Nocilla.git", :tag => "0.1" }
+  s.source       = { :git => "https://github.com/jeanregisser/Nocilla.git" }
 
    s.platform     = :ios, '4.0'
 
